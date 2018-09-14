@@ -1,0 +1,100 @@
+D:\/GameS
+D:\/app
+D:\/GamesMailRu
+D:\/$RECYCLE.BIN
+D:\/glassfish5
+D:\/asenv.bat
+D:\/go
+D:\/img
+D:\/msdia80.dll
+D:\/JAVAC
+D:\/OS
+D:\/music
+D:\/OSPanel
+D:\/SteamLibrary
+D:\/System Volume Information
+D:\/OS2
+D:\/Temp
+D:\/User
+D:\/видео
+D:\/Виталяки Флексит.JPG
+D:\/VS
+D:\/SQL
+D:\/загрузки
+D:\/Музыка Димона
+D:\/Диск
+D:\/Матем
+D:\/установки программ
+D:\/Файлы учеба
+D:\/музыка
+D:\/фильм
+D:\/прога
+D:\/Фотографии
+D:\\$RECYCLE.BIN
+D:\\app
+D:\\GameS
+D:\\GamesMailRu
+D:\\asenv.bat
+D:\\img
+D:\\glassfish5
+D:\\go
+D:\\msdia80.dll
+D:\\OS
+D:\\music
+D:\\OSPanel
+D:\\OS2
+D:\\JAVAC
+D:\\SteamLibrary
+D:\\System Volume Information
+D:\\User
+D:\\Temp
+D:\\VS
+D:\\SQL
+D:\\видео
+D:\\Виталяки Флексит.JPG
+D:\\загрузки
+D:\\Матем
+D:\\музыка
+D:\\Музыка Димона
+D:\\Файлы учеба
+D:\\прога
+D:\\фильм
+D:\\Фотографии
+D:\\Диск
+D:\\установки программ
+D:\$RECYCLE.BIN
+D:\app
+D:\GameS
+D:\asenv.bat
+D:\GamesMailRu
+D:\go
+D:\glassfish5
+D:\img
+D:\msdia80.dll
+D:\JAVAC
+D:\music
+D:\OS2
+D:\OSPanel
+D:\OS
+D:\SQL
+D:\SteamLibrary
+D:\System Volume Information
+D:\Temp
+D:\VS
+D:\User
+D:\видео
+D:\Диск
+D:\загрузки
+D:\Виталяки Флексит.JPG
+D:\Матем
+D:\музыка
+D:\Музыка Димона
+D:\прога
+D:\установки программ
+D:\Файлы учеба
+D:\фильм
+D:\Фотографии
+D:\go1.txt
+D:\gofor.bat
+D:\go2
+D:\go2.txt
